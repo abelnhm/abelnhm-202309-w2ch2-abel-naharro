@@ -1,0 +1,20 @@
+{
+  "name": "abelnhm-202309-w2ch2-abel-naharro",
+  "version": "1.0.0",
+  "description": "Week 2 - Challenge 2",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "Abel Naharro",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
