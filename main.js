@@ -1,1 +1,3 @@
-import { tool } from './js/tools.js';
+import { strictEquals } from './js/tools.js';
+
+strictEquals();
